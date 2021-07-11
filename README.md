@@ -1,4 +1,4 @@
-# prueba
+# vue_libro
 
 ## Project setup
 ```
